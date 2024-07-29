@@ -13,7 +13,13 @@ This project contains a reusable, well-structured, and well-designed autocomplet
    ```
 
 2. Install dependencies:
+   ```
    npm install
 
-3. run the project:
+   ```
+
+4. run the project:
+   ```
    npm run start.
+
+   ```
